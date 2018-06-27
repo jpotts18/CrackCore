@@ -1,0 +1,17 @@
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/bin/Debug/netcoreapp2.0/CrackCore.Tests.deps.json
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/bin/Debug/netcoreapp2.0/CrackCore.Tests.runtimeconfig.json
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/bin/Debug/netcoreapp2.0/CrackCore.Tests.runtimeconfig.dev.json
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/bin/Debug/netcoreapp2.0/CrackCore.Tests.dll
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/bin/Debug/netcoreapp2.0/CrackCore.Tests.pdb
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/bin/Debug/netcoreapp2.0/CrackCore.dll
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/bin/Debug/netcoreapp2.0/CrackCore.pdb
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/obj/Debug/netcoreapp2.0/CrackCore.Tests.csprojAssemblyReference.cache
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/obj/Debug/netcoreapp2.0/CrackCore.Tests.csproj.CoreCompileInputs.cache
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/obj/Debug/netcoreapp2.0/CrackCore.Tests.AssemblyInfoInputs.cache
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/obj/Debug/netcoreapp2.0/CrackCore.Tests.AssemblyInfo.cs
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/obj/Debug/netcoreapp2.0/CrackCore.Tests.csproj.CopyComplete
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/obj/Debug/netcoreapp2.0/CrackCore.Tests.dll
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore.Tests/obj/Debug/netcoreapp2.0/CrackCore.Tests.pdb

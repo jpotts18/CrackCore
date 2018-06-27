@@ -1,0 +1,9 @@
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore/bin/Debug/netstandard2.0/CrackCore.deps.json
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore/bin/Debug/netstandard2.0/CrackCore.dll
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore/bin/Debug/netstandard2.0/CrackCore.pdb
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore/obj/Debug/netstandard2.0/CrackCore.csprojAssemblyReference.cache
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore/obj/Debug/netstandard2.0/CrackCore.csproj.CoreCompileInputs.cache
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore/obj/Debug/netstandard2.0/CrackCore.AssemblyInfoInputs.cache
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore/obj/Debug/netstandard2.0/CrackCore.AssemblyInfo.cs
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore/obj/Debug/netstandard2.0/CrackCore.dll
+/Users/jeffpotter/Code/dotnet/CrackCore/CrackCore/obj/Debug/netstandard2.0/CrackCore.pdb
