@@ -11,7 +11,7 @@ namespace CrackCore.Tests
         public void Count_CreateAnEmpty_CountIsZero()
         {
             var list = new LinkedList();
-            Assert.Equal(0,list.Count);
+            Assert.Equal(0, list.Count);
         }
 
         [Fact]
@@ -19,7 +19,7 @@ namespace CrackCore.Tests
         {
             var list = new LinkedList();
             list.Append(1);
-            Assert.Equal(1,list.Count);
+            Assert.Equal(1, list.Count);
         }
 
         [Fact]
@@ -28,16 +28,16 @@ namespace CrackCore.Tests
             var list = new LinkedList();
             for (int i = 0; i < 100; i++)
             {
-                list.Append(1);    
+                list.Append(1);
             }
-            Assert.Equal(100,list.Count);
+            Assert.Equal(100, list.Count);
         }
 
         [Fact]
         public void First_EmptyList_ReturnsNull()
         {
             var list = new LinkedList();
-            
+
             var item = list.First;
 
             Assert.Null(item);
@@ -52,7 +52,7 @@ namespace CrackCore.Tests
 
             Assert.Equal(1, list.First);
         }
-        
+
         [Fact]
         public void First_TwoItem_ReturnsItem()
         {
@@ -68,7 +68,7 @@ namespace CrackCore.Tests
         public void Last_EmptyList_ReturnsNull()
         {
             var list = new LinkedList();
-            
+
             var item = list.Last;
 
             Assert.Null(item);
@@ -79,7 +79,7 @@ namespace CrackCore.Tests
         {
             var list = new LinkedList();
             list.Append(1);
-            
+
             var item = list.Last;
 
             Assert.Equal(1, item);
@@ -91,7 +91,7 @@ namespace CrackCore.Tests
             var list = new LinkedList();
             list.Append(1);
             list.Append(2000);
-            
+
             var item = list.Last;
 
             Assert.Equal(2000, item);
